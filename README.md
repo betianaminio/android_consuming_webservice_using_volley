@@ -1,2 +1,2 @@
-# android_consuming_webservice_using_volley
-Consuming a webservice in Android using Volley
+# Consuming a webservice using volley
+An example of consuming a webservice in android using Volley.
